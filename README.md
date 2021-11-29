@@ -9,5 +9,5 @@ I uploaded this source because many new modders who were new to modding field as
 Have a nice time in modding💕
 
 Here is a monostring hooking tutorial by Slice Cast from platinmods.
-https://www.google.com/amp/s/platinmods.com/threads/how-to-modify-unitys-il2cpp-string-methods.123414/%3famp=1
+https://platinmods.com/threads/how-to-modify-unitys-il2cpp-string-methods.123414/
 Happy Modding❤️❤️
